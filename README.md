@@ -1,6 +1,6 @@
 # The_squirrel_adventure
 
-Created by Alejandro Ortiz Pérez, Gerard Estévez Fernández and Mario Antón Clemente.
+Created by GAMESNAT
 
 The squirrel adventure is a platform game with a one enemy(fox), one obstacle(rock) and two items an acorn and a star.
 
@@ -17,3 +17,6 @@ The objetive of this game is try to get a new high score.
 
 This game are making for a childrens but all people can play because the game have a progressive difficulty.
 
+Project manager: Alejandro Ortiz Pérez
+Programmer Mario Antón Clemente
+Designer Gerard Estévez Fernández
