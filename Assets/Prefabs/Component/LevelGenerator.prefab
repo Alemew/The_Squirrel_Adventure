@@ -47,6 +47,5 @@ MonoBehaviour:
   currentLevelBlock: []
   allTheLevelBlocks:
   - {fileID: 6595408414024554126, guid: 43dd40863c5edc045a803631b914de42, type: 3}
-  - {fileID: 33929211511770941, guid: 922e1a179a0f67b42ac25691582ab560, type: 3}
   levelInitialPoint: {fileID: 0}
   isGeneratingInitialBlocks: 0
