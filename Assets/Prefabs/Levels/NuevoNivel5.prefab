@@ -416,15 +416,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5031258631130644672, guid: 6ee114db2070dc047b624435e921c442, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.7611818
+      value: 0.527713
       objectReference: {fileID: 0}
     - target: {fileID: 5031258631130644672, guid: 6ee114db2070dc047b624435e921c442, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.92
+      value: 7.8497
       objectReference: {fileID: 0}
     - target: {fileID: 5031258631130644672, guid: 6ee114db2070dc047b624435e921c442, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.69
+      value: 4.54
       objectReference: {fileID: 0}
     - target: {fileID: 5031258631130644672, guid: 6ee114db2070dc047b624435e921c442, type: 3}
       propertyPath: m_LocalPosition.z
@@ -622,7 +622,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5031258631130644672, guid: 6ee114db2070dc047b624435e921c442, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.92
+      value: 7.9206
       objectReference: {fileID: 0}
     - target: {fileID: 5031258631130644672, guid: 6ee114db2070dc047b624435e921c442, type: 3}
       propertyPath: m_LocalPosition.y
@@ -662,11 +662,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5031258631130644674, guid: 6ee114db2070dc047b624435e921c442, type: 3}
       propertyPath: m_Size.x
-      value: 11
+      value: 8.382021
       objectReference: {fileID: 0}
     - target: {fileID: 5031258631130644674, guid: 6ee114db2070dc047b624435e921c442, type: 3}
       propertyPath: m_Offset.x
-      value: 0.016016722
+      value: 0.016016245
+      objectReference: {fileID: 0}
+    - target: {fileID: 5031258631130644674, guid: 6ee114db2070dc047b624435e921c442, type: 3}
+      propertyPath: m_SpriteTilingProperty.newSize.x
+      value: 8.373991
+      objectReference: {fileID: 0}
+    - target: {fileID: 5031258631130644675, guid: 6ee114db2070dc047b624435e921c442, type: 3}
+      propertyPath: m_Size.x
+      value: 8.373991
       objectReference: {fileID: 0}
     - target: {fileID: 5031258631130644677, guid: 6ee114db2070dc047b624435e921c442, type: 3}
       propertyPath: m_Name

@@ -391,6 +391,50 @@ PrefabInstance:
       propertyPath: levelInitialPoint
       value: 
       objectReference: {fileID: 1437500308}
+    - target: {fileID: 4427634402374706234, guid: 2df2f9371b9c7d24e88d6ea850c2d0b1, type: 3}
+      propertyPath: allTheLevelBlocks.Array.size
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4427634402374706234, guid: 2df2f9371b9c7d24e88d6ea850c2d0b1, type: 3}
+      propertyPath: allTheLevelBlocks.Array.data[1]
+      value: 
+      objectReference: {fileID: 33929211511770941, guid: 922e1a179a0f67b42ac25691582ab560, type: 3}
+    - target: {fileID: 4427634402374706234, guid: 2df2f9371b9c7d24e88d6ea850c2d0b1, type: 3}
+      propertyPath: allTheLevelBlocks.Array.data[2]
+      value: 
+      objectReference: {fileID: 4041888805875400503, guid: a5fe501dff92f7543bae92be62ab899a, type: 3}
+    - target: {fileID: 4427634402374706234, guid: 2df2f9371b9c7d24e88d6ea850c2d0b1, type: 3}
+      propertyPath: allTheLevelBlocks.Array.data[3]
+      value: 
+      objectReference: {fileID: 6595408414024554126, guid: 933a351bd9ea0f5418b9ce66861ddeff, type: 3}
+    - target: {fileID: 4427634402374706234, guid: 2df2f9371b9c7d24e88d6ea850c2d0b1, type: 3}
+      propertyPath: allTheLevelBlocks.Array.data[4]
+      value: 
+      objectReference: {fileID: 6595408414024554126, guid: 68c024ba8a5f53c418dbbdce7134ba16, type: 3}
+    - target: {fileID: 4427634402374706234, guid: 2df2f9371b9c7d24e88d6ea850c2d0b1, type: 3}
+      propertyPath: allTheLevelBlocks.Array.data[5]
+      value: 
+      objectReference: {fileID: 6595408414024554126, guid: 06bfe50114e3a6842ab6bf6b5ee0907d, type: 3}
+    - target: {fileID: 4427634402374706234, guid: 2df2f9371b9c7d24e88d6ea850c2d0b1, type: 3}
+      propertyPath: allTheLevelBlocks.Array.data[6]
+      value: 
+      objectReference: {fileID: 6595408414024554126, guid: b018bb1e7433621468bf1572462965a8, type: 3}
+    - target: {fileID: 4427634402374706234, guid: 2df2f9371b9c7d24e88d6ea850c2d0b1, type: 3}
+      propertyPath: allTheLevelBlocks.Array.data[7]
+      value: 
+      objectReference: {fileID: 6595408414024554126, guid: 3feb6992d951101408672ce8c4832e1c, type: 3}
+    - target: {fileID: 4427634402374706234, guid: 2df2f9371b9c7d24e88d6ea850c2d0b1, type: 3}
+      propertyPath: allTheLevelBlocks.Array.data[8]
+      value: 
+      objectReference: {fileID: 6595408414024554126, guid: 6b645341035bd884b8db6e8738711b33, type: 3}
+    - target: {fileID: 4427634402374706234, guid: 2df2f9371b9c7d24e88d6ea850c2d0b1, type: 3}
+      propertyPath: allTheLevelBlocks.Array.data[9]
+      value: 
+      objectReference: {fileID: 33929211511770941, guid: f1e40e201d73cb942bb4183faa4e9418, type: 3}
+    - target: {fileID: 4427634402374706234, guid: 2df2f9371b9c7d24e88d6ea850c2d0b1, type: 3}
+      propertyPath: allTheLevelBlocks.Array.data[10]
+      value: 
+      objectReference: {fileID: 6595408414024554126, guid: 43dd40863c5edc045a803631b914de42, type: 3}
     - target: {fileID: 6764453312748111651, guid: 2df2f9371b9c7d24e88d6ea850c2d0b1, type: 3}
       propertyPath: m_RootOrder
       value: 4
