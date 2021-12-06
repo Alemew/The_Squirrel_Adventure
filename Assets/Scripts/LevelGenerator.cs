@@ -56,7 +56,6 @@ public class LevelGenerator : MonoBehaviour
     public void AddNewBlockAll()
     {
         LevelBlock block = allTheLevelBlocks[0];
-        allTheLevelBlocks.Add(block);
     }
     
     public void AddNewBlock()
