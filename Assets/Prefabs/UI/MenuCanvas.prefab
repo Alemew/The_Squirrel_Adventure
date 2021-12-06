@@ -69,7 +69,7 @@ Canvas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6718698273265773850}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 0
   m_Camera: {fileID: 0}
@@ -226,6 +226,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6718698273265773851}
     m_Modifications:
+    - target: {fileID: 6879075334915605428, guid: 8ace285e6c04cc74b952e9f6874e0c47, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 6879075334915605429, guid: 8ace285e6c04cc74b952e9f6874e0c47, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -328,6 +332,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6718698273265773851}
     m_Modifications:
+    - target: {fileID: 7916460969817897822, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: e09a06262acb6704a8105334fd10a19d, type: 3}
+    - target: {fileID: 7916460969817897823, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -8.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7916460969817897823, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 7916460970682712596, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -416,6 +432,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayButton
       objectReference: {fileID: 0}
+    - target: {fileID: 7916460970682712598, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1965a605ed6959c4f83070626a3c5808, type: 3}
+    - target: {fileID: 7916460970682712599, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1965a605ed6959c4f83070626a3c5808, type: 3}
     - target: {fileID: 7916460970682712599, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 

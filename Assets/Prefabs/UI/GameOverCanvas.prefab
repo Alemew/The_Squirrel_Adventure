@@ -55,7 +55,7 @@ Canvas:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5587937645497091136}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_RenderMode: 0
   m_Camera: {fileID: 0}
@@ -567,6 +567,18 @@ PrefabInstance:
       propertyPath: m_Text
       value: Play Again
       objectReference: {fileID: 0}
+    - target: {fileID: 7916460969817897822, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: e09a06262acb6704a8105334fd10a19d, type: 3}
+    - target: {fileID: 7916460969817897823, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -11
+      objectReference: {fileID: 0}
+    - target: {fileID: 7916460969817897823, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 7916460970682712596, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -663,6 +675,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayAgainButton
       objectReference: {fileID: 0}
+    - target: {fileID: 7916460970682712598, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1965a605ed6959c4f83070626a3c5808, type: 3}
+    - target: {fileID: 7916460970682712599, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1965a605ed6959c4f83070626a3c5808, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
 --- !u!224 &2328568685961534471 stripped
@@ -913,8 +933,20 @@ PrefabInstance:
       value: Main menu
       objectReference: {fileID: 0}
     - target: {fileID: 7916460969817897822, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: e09a06262acb6704a8105334fd10a19d, type: 3}
+    - target: {fileID: 7916460969817897822, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
       propertyPath: m_FontData.m_FontSize
       value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 7916460969817897823, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -6.3058753
+      objectReference: {fileID: 0}
+    - target: {fileID: 7916460969817897823, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 4.7293854
       objectReference: {fileID: 0}
     - target: {fileID: 7916460970682712596, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
       propertyPath: m_Pivot.x
@@ -1012,6 +1044,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: MainMenuButton
       objectReference: {fileID: 0}
+    - target: {fileID: 7916460970682712598, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1965a605ed6959c4f83070626a3c5808, type: 3}
+    - target: {fileID: 7916460970682712599, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 1965a605ed6959c4f83070626a3c5808, type: 3}
     - target: {fileID: 7916460970682712599, guid: 6e00949ac6120bc4aadda9dc2320becd, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: BackToMainMenu
