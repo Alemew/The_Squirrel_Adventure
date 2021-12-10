@@ -19,4 +19,4 @@ This game are making for a childrens but all people can play because the game ha
 
 Project manager: Alejandro Ortiz Pérez
 Programmer Mario Antón Clemente
-Designer Gerard Estévez Fernández
+Designer G
